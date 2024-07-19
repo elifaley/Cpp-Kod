@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elifa\\source\\repos\\asalSayi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08738489-6802-41F6-9106-04D918274165}|asalSayi\\asalSayi.vcxproj|C:\\Users\\elifa\\source\\repos\\asalSayi\\asalSayi\\asalSayi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08738489-6802-41F6-9106-04D918274165}|asalSayi\\asalSayi.vcxproj|solutionrelative:asalSayi\\asalSayi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asalSayi.cpp",
+              "DocumentMoniker": "C:\\Users\\elifa\\source\\repos\\asalSayi\\asalSayi\\asalSayi.cpp",
+              "RelativeDocumentMoniker": "asalSayi\\asalSayi.cpp",
+              "ToolTip": "C:\\Users\\elifa\\source\\repos\\asalSayi\\asalSayi\\asalSayi.cpp",
+              "RelativeToolTip": "asalSayi\\asalSayi.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T16:32:47.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
